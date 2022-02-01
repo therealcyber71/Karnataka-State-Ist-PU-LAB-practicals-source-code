@@ -1,3 +1,4 @@
+//Write a C++ program to find the area of triangle given three sides.
 #include<iostream.h>
 #include<conio.h>
 #include<math.h>
