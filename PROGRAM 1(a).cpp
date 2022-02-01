@@ -1,3 +1,5 @@
+//Write a C++ program to interchange the values of two variables using a
+//third variable
 #include<iostream.h>
 #include<conio.h>
 void main( )
